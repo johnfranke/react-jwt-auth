@@ -1,2 +1,2 @@
-## React JWT Authentication (without Redux) exampl# react-jwt-auth
+## React JWT Authentication
 # react-jwt-auth
